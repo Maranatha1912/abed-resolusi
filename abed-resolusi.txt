@@ -1,5 +1,5 @@
   ABED RESOLUSI
   - Belajar
   - Pemograman
-  - Membuat
   - Web
+  - Pengelolaan
